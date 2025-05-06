@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Add system escrow."}
+{"version":"1.0.4","news":"Edt traduction."}
