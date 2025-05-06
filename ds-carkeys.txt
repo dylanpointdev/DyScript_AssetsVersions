@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Add a horn to warn that the car is opening and closing when pressing the 'U' key."}
+{"version":"1.0.3","news":"Add system escrow."}
