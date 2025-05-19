@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Edt traduction."}
+{"version":"1.0.6","news":"Edt exports."}
