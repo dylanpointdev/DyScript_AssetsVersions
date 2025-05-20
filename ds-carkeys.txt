@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Edt MAJ System."}
+{"version":"1.0.8","news":"Edt MAJ System."}
